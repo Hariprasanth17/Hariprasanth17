@@ -49,11 +49,11 @@
 </p>
  -->
 
-<!-- Visitors Badge -->
+<!-- Visitors Badge 
 <div align="center">
   <img alt="Visitantes" height="30" width="120" src="https://visitor-badge.laobi.icu/badge?page_id=ryanbritodev.ryanbritodev"/>
 </div>
-
+-->
 <!-- Snake Game -->
 <p align="center">
   <img alt="GitHub Activity Graph" src="https://raw.githubusercontent.com/ryanbritodev/ryanbritodev/output/github-contribution-grid-snake.svg"/>
