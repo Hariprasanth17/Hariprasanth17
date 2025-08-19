@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariprasanth17" alt="hariprasanth17" /></a> </p>
 
-- 🌱 I’m currently learning **React js**
+- 🌱 I’m currently learning **React Native**
 
 - 👯 I’m looking to collaborate on **Front end projects**
 
