@@ -11,13 +11,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hariprasanth17" alt="hariprasanth17" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Node Js**
 
 - 👯 I’m looking to collaborate on **Front end projects**
 
 - 🤝 I’m looking for help with **Web Development**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React Native**
 
 - 📫 How to reach me **msharir17@gmail.com**
 
